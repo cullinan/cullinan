@@ -11,7 +11,7 @@ public class WangApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(WangApplication.class, args);
-		log.info("start succeful33ss3");
+		log.info("start succeful33ss3aa");
 	}
 
 }
